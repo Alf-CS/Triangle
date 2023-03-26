@@ -1,0 +1,7 @@
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.AssemblyReference.cache
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.Form1.resources
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.GenerateResource.cache
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfoInputs.cache
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.AssemblyInfo.cs
+D:\ReposCS\Triangle\obj\Debug\net6.0-windows\Triangle.csproj.CoreCompileInputs.cache
